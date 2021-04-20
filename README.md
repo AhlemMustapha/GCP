@@ -1,2 +1,4 @@
 # Data-Engineering-On-GOOGLE-CLOUD-PLATFORM
-in this repository , I am going to share with you all the materials I am using during my learning towards the GCP certification.
+in this repository, I am sharing with you all the materials that I use while learning the GCP certification.
+If you are planning to do the certification or if you have already done so, please give us your impression and recommendations.
+Let's work together to make this repository a useful resource for learning and sharing knowledge about Google cloud technologies.
